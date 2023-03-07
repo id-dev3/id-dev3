@@ -1,6 +1,6 @@
 # Hi there 👋🏾
 
-I'm **Idrissa Diallo** and I'm better known under the pseudonym of **Black Fury** ✌🏾 <br>
+I'm **Idris** and I'm better known under the pseudonym of **Black Fury** ✌🏾 <br>
 
 I'm a **Junior Frontend Developer**👨🏾‍💻 passionate about building beautiful and intuitive user interfaces ✨. I have experience with HTML, CSS, SASS, Bootstrap, JavaScript and React, and I'm always eager to learn and improve my skills 🎯. <br>
 
