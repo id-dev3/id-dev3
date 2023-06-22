@@ -15,9 +15,6 @@ I'm Idris and I'm better known under the pseudonym of Black Fury ✌🏾<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BlackFury117&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=blackfury117)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BlackFury117&icon=5&color=0)](https://visitcount.itsvg.in)
 
