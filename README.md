@@ -2,8 +2,7 @@
 
 # Hello 👋🏾
 
-I'm Idris, and I'm a JR Front-End Developer👨🏾‍💻 passionate about building beautiful and intuitive user interfaces <br><br>
-I have experience with HTML, CSS, SASS, TailWind CSS, Bootstrap, JavaScript, and React, and I'm always eager to learn and improve my skills 🎯<br><br>
+I'm Idris, and I'm a JR Front-End Developer👨🏾‍💻 passionate about building beautiful and intuitive user interfaces <br>
 And I'm always excited to continue building projects and contributing to open-source software ✊🏾
 
 
