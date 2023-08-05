@@ -1,6 +1,6 @@
 <h1 align="center">Hey  👋🏾 What's up?</h1>
 
-![This is my design](https://github.com/BlackFury117/BlackFury117/blob/main/Edit-me.jpg?raw=true)
+![This is my design](/Edit-me.jpg)
 
 ###
 
