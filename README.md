@@ -47,6 +47,15 @@
 
 ###
 
+<h2 align="center">Support Me</h2>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/iddiallo117">
+    <img src="/buy-me-a-coffee-logo.png" height="100" alt="Buy me a coffee logo"  />
+    <img width="100" />
+  </a>
+</div>
+
 <h2 align="center">Visitors</h2>
 
 ###
