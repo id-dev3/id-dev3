@@ -47,12 +47,12 @@
 
 ###
 
-<h2 align="center">Support Me</h2>
+<h2 align="left">Support Me</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.buymeacoffee.com/iddiallo117">
-    <img src="/buy-me-a-coffee-logo.png" height="100" alt="Buy me a coffee logo"  />
-    <img width="100" />
+    <img src="/buy-me-a-coffee-logo.png" height="80" alt="Buy me a coffee logo"  />
+    <img width="80" />
   </a>
 </div>
 
