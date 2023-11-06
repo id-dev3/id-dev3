@@ -36,20 +36,20 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h2 align="center">My Stats</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=id-dev3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=id-dev3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
 </div>
 
 ###
 
-<h2 align="left">Support Me</h2>
+<h2 align="center">Support Me</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.buymeacoffee.com/iddiallo117">
     <img src="/buy-me-a-coffee-logo.png" height="80" alt="Buy me a coffee logo"  />
     <img width="80" />
