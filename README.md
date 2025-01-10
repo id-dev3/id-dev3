@@ -1,10 +1,8 @@
-![This is my design](/Edit-me.jpg)
-
 ###
 
 <h1 align="center">Hey👋🏾 What's up?</h1>
 
-<p align="center">I'm Idris, and I'm a <strong>JR Front-End Developer👨🏾‍💻</strong> <br>Passionate about <strong>building beautiful and intuitive user interfaces</strong><br>And I'm always excited to continue building projects and contributing to open-source software ✊🏾</p>
+<p align="center">I'm Idris, and I'm a <strong>Front-End Developer👨🏾‍💻</strong> <br>Passionate about <strong>building beautiful and intuitive user interfaces</strong><br>And I'm always excited to continue building projects and contributing to open-source software ✊🏾</p>
 
 ###
 
